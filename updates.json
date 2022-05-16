@@ -1,0 +1,8 @@
+{
+    "v2.0.0-win": {
+        "readme": "First 2.0 release",
+        "update": "https://github.com/SrIzan10/shellshockers-webapp/releases/download/v2.0.0-win",
+        "install": "https://github.com/SrIzan10/shellshockers-webapp/releases/download/v2.0.0-win/Setup.exe",
+        "version": "0.0.2"
+      }
+}
