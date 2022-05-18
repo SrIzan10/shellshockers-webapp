@@ -1,8 +1,14 @@
 {
-    "v2.0.0-win": {
+    "win32-x64-prod-v2.0.0": {
         "readme": "First 2.0 release",
         "update": "https://github.com/SrIzan10/shellshockers-webapp/releases/download/v2.0.0-win",
         "install": "https://github.com/SrIzan10/shellshockers-webapp/releases/download/v2.0.0-win/Setup.exe",
-        "version": "0.0.2"
+        "version": "2.0.0"
+      },
+      "win32-x64-prod-v2.0.1": {
+        "readme": "2.0.1 - Bugfixes",
+        "update": "https://github.com/SrIzan10/shellshockers-webapp/releases/download/v2.0.1-win",
+        "install": "https://github.com/SrIzan10/shellshockers-webapp/releases/download/v2.0.1-win/Setup.exe",
+        "version": "2.0.1"
       }
 }
