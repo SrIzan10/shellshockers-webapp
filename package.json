@@ -1,6 +1,6 @@
 {
   "name": "shellshockers-webapp",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Shell Shockers Webapp",
   "main": "index.js",
   "scripts": {
